@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
