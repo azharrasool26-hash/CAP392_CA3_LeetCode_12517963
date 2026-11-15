@@ -19,4 +19,16 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
