@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
