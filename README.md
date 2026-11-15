@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
