@@ -6,6 +6,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0412-fizz-buzz) |
+| [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0016-3sum-closest](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
+| [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -56,4 +59,16 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0016-3sum-closest) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
