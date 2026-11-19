@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
