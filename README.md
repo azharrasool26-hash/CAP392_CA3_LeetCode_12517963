@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
 | [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0075-sort-colors) |
 ## Minimax
 |  |
 | ------- |
@@ -77,4 +80,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0003-longest-substring-without-repeating-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
