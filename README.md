@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0412-fizz-buzz) |
 | [1406-stone-game-iii](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1406-stone-game-iii) |
