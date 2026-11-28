@@ -42,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0217-contains-duplicate) |
+| [2349-design-a-number-container-system](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/2349-design-a-number-container-system) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/1603-design-parking-system) |
+| [2349-design-a-number-container-system](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/2349-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -105,4 +107,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/0073-set-matrix-zeroes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/azharrasool26-hash/CAP392_CA3_LeetCode_12517963/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
